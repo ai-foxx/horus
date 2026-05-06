@@ -1,4 +1,4 @@
-# Horus development in Ubuntu (Debian)
+# Horus development in Ubuntu (Debian & RaspberryPi OS)
 
 [return to Home](../../README.md)
 
