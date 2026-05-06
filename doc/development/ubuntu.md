@@ -1,8 +1,8 @@
-#Horus development in Ubuntu
+# Horus development in Ubuntu (Debian)
 
 [return to Home](../../README.md)
 
-If you are a developer and you want to modify the code, contribute, build packages, etc. you may follow this steps
+If you are a developer and you want to modify the code to build packages, follow what's below.
 
 ## 1. Set up the environment
 
